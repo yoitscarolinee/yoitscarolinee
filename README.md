@@ -1,10 +1,15 @@
-### Oii! Aqui é a Carolzita!
+### Oii! Aqui é a Carolzita! 👻
+  💕 Sou designer UI/UX, Desenvolvo websites com todo amor, desde o layout no XD até o ultimo ponto e vírgula do codigo! <br>
+  🚀 Fullstack go brrr... <br>
+  🏳️‍⚧️ Sou uma mulher trans e adoro viajar para conhecer o mundo! <br>
+  👩‍💻 Tenho conhecimento abrangente em variadas áreas da tecnologia, como modelagem 3D e animação!
+  
 
 <a href="https://github.com/yoitscarolinee">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yoitscarolinee&count_private=true&show_icons=true&theme=default)" />
 </a>
 <a href="https://github.com/yoitscarolinee">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoitscarolinee&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoitscarolinee&layout=compact&count_private=true" />
 </a>
 
 
