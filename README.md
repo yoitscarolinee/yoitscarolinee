@@ -1,7 +1,7 @@
 ### Oii! Aqui é a Carolzita! 👻
   💕 Sou designer UI/UX, Desenvolvo websites com todo amor, desde o layout no XD até o ultimo ponto e vírgula do codigo! <br>
   🚀 Fullstack go brrr... <br>
-  🏳️‍⚧️ Sou uma mulher trans e adoro viajar para conhecer o mundo! <br>
+  🏳️‍⚧️ Sou uma mulher trans e adoro conhecer novas pessoas! <br>
   👩‍💻 Tenho conhecimento abrangente em variadas áreas da tecnologia, como modelagem 3D e animação!
   
 
