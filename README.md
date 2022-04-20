@@ -4,15 +4,6 @@
   🏳️‍⚧️ Sou uma mulher trans e adoro conhecer novas pessoas! <br>
   👩‍💻 Tenho conhecimento abrangente em variadas áreas da tecnologia, como modelagem 3D e animação!
   
-
-<a href="https://github.com/yoitscarolinee">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yoitscarolinee&count_private=true&show_icons=true&theme=default)" />
-</a>
-<a href="https://github.com/yoitscarolinee">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoitscarolinee&layout=compact&count_private=true" />
-</a>
-
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Carol-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Carol-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
