@@ -6,7 +6,7 @@
 
 <h2 align="center" style="font-weight: 600">Oii! Eu sou a Carolzita!</h2>
 
-<p align="center">Programo sites, bots, faço automações de (quase) tudo e espero que eu consiga te surpreender!</p>
+<p align="center">Programo sites, bots, faço automações de (quase) tudo, espero que eu consiga te surpreender!</p>
 <p align="center">Abaixo você consegue encontrar todos os meus links para contato, só me chamar que a gente faz um projetinho bem legal! </p>
 
 <p align="center" style="font-size: 10px">Eu AMO gifzinhos fofinhos e Javascript</p>
